@@ -1,1 +1,13 @@
 # PyBer_Analysis
+## Purpose
+### The purpose of this project was to analyze the total fares by city types; urban, suburban, and rural cities.
+ 
+## Results
+### When analyzing the data, we can see that the Urban cities have the most rides and the most drivers. As a result, they make up a greater amount of the total fares ($USD). However, urban cities have the lowest average fare per driver. Urban Cities is also the only city type with more total drivers than total rides which would explain why the urban fare per driver is lower in urban cities. Rural cities have the highest average fare per ride and the lowest amount of total rides and total drivers. Rural cities also make up the lowest amount of total fares ($USD). Suburban Cities make up about a third of all rides and about a third of all the total fares ($USD). When looking at the graph, all three city types do tend to follow similar trends, they are all experiencing a slight peak at the end of February.
+![Screen Shot 2022-03-29 at 8 08 08 PM](https://user-images.githubusercontent.com/100246124/160726020-3c0cd965-a701-4265-97da-60e89550de5e.png)
+
+ 
+## Summary
+### Urban Cities bring in the most profit, but one reason that could cause this is that rides are cheaper in Urban Cities. Contrary, rural cities have the least amount of ride requests and drivers. One suggestion would be to bring down the cost of fares in rural cities to potentially drive up more ride requests. The average fare per ride is almost $10 more expensive in rural cities. However, we are missing a key piece of information which is distance. Is the average fare per ride just higher in rural cities because the city type is not as populated and places are just further away? Another suggestion would be to analyze the cost per mile, this would more accurately paint a picture of fares and would let us know if there are any fare disparities between the city types. Is the cost per mile the same accross all the city types?  Suburban cities do bring in almost a third of the total fares, one suggestion would be to incentivize more drivers to join Pyber in Suburban Cities in the hopes of bringing up total profits. More drivers might mean more profits. Another piece of data that is missing is average wait times in city types, if a city type is showing too high of a wait time to match a driver with a ride, it would indicate that the particular city type might need to incentivize more drivers to join in that city type.
+
+![Screen Shot 2022-03-29 at 8 11 36 PM](https://user-images.githubusercontent.com/100246124/160726135-17088afc-21aa-4464-80e1-b1ce29e4f168.png)
